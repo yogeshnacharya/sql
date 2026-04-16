@@ -161,3 +161,4 @@ INSERT INTO reactions_info VALUES (4,'Haha',4);
 INSERT INTO reactions_info VALUES (5,'Sad',5);
 INSERT INTO reactions_info VALUES (6,'Angry',6);
 INSERT INTO reactions_info VALUES (7,'Care',7);
+select * from reactions_info;
